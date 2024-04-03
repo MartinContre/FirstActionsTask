@@ -1,0 +1,17 @@
+{
+  "base_url" : "https://userinyerface.com/",
+  "email_length": 10,
+  "password_length": 10,
+  "email_domains":
+    [
+      "gmail",
+      "yahoo",
+      "outlook",
+      "icloud",
+      "aol",
+      "zoho",
+      "proton",
+      "gmx"
+    ],
+  "path_upload_image": "/src/test/resources/man.png"
+}
