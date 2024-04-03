@@ -11,6 +11,8 @@ name: Allure report
 on:
   push:
     branches: [ "main" ]
+  #schedule:
+    #- cron: "30 8 1 * *"
 
 jobs:
   build:
